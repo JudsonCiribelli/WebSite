@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(pexels-creative-vix-9754.jpg);
+  background: url(822505.jpg);
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -43,6 +43,7 @@ body {
   text-decoration: none;
 }
 .navigation button {
+  color: white;
   width: 130px;
   height: 50px;
   border: 2px solid #fff;
